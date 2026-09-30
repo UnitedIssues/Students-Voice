@@ -7,23 +7,23 @@ import html
 # ============================================================
 # SITE CONFIGURATION — EDIT THESE
 # ============================================================
-COLLEGE_NAME = "Our College"
-SITE_NAME = "Student Civic Hub"
-TAGLINE = "A simple, private place for student voices, petitions and campus concerns."
+COLLEGE_NAME = "United College of Engineering and Research"
+SITE_NAME = "United Issues"
+TAGLINE = "Student's Voice"
 
-EVENT_TITLE = "Student Action"
-EVENT_DATE = "Add date"
-EVENT_TIME = "Add time"
-EVENT_PLACE = "Add place"
+EVENT_TITLE = "Peaceful Protest"
+EVENT_DATE = "1st October 2026"
+EVENT_TIME = "8:30AM"
+EVENT_PLACE = "UCER - GateNo.2"
 
 DEMANDS = [
-    "Add your verified student demand here.",
-    "Add your verified student demand here.",
-    "Add your verified student demand here.",
+    "Accountability for Gun Gupta",
+    "Acceptance of short attendance on medical grounds with doctor's note till valid date",
+    "Student Grievance Cell for resolving all student matters with unbiased investigation for every complaint",
 ]
 
-ORGANIZER_CONTACT = "Add an official student-organizer contact here."
-SITE_OWNER = "Student Organizers"
+ORGANIZER_CONTACT = "unitedissues@gmail.com"
+SITE_OWNER = "A College Student"
 YEAR = "2026"
 
 # ============================================================
